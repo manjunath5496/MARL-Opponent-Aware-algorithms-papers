@@ -2,7 +2,7 @@
 
 <ul>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/MARL-Opponent-Aware-algorithms-papers/blob/master/malg(1).pdf" style="text-decoration:none;">Counterfactual Multi-Agent Policy Gradients</a></li>
+ <li><a target="_blank" href="malg(1).pdf" style="text-decoration:none;">Counterfactual Multi-Agent Policy Gradients</a></li>
 
 
  <li><a target="_blank" href="https://github.com/manjunath5496/MARL-Opponent-Aware-algorithms-papers/blob/master/malg(2).pdf" style="text-decoration:none;">Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments</a></li>
